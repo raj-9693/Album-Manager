@@ -24,7 +24,7 @@
                 android:scaleType="centerCrop"
                 android:background="@drawable/bg_album_side_round"
                 android:clipToOutline="true"
-                android:src="@drawable/ic_launcher_background"/>
+                android:src="@drawable/music"/>
 
             <LinearLayout
                 android:layout_marginStart="14dp"
